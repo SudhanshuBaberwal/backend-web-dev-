@@ -1,0 +1,24 @@
+{
+  "name": "chai-or-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudhanshuBaberwal/backend-web-dev-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudhanshuBaberwal/backend-web-dev-/issues"
+  },
+  "homepage": "https://github.com/SudhanshuBaberwal/backend-web-dev-#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
